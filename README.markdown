@@ -1,2 +1,4 @@
-This is lab 03...
-Its about creating local and remote repositories, and saving new data to these repositories
+# This is lab 04...
+Creating local and remote repositories.
+Saving data to these repositories.
+.
